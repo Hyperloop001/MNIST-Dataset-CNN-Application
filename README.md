@@ -4,11 +4,11 @@
 ![alt text](https://i.imgur.com/lup5gsA.png)
 ![alt text](https://i.imgur.com/XPMA0A8.png)
 
-## If you wanna download it, you have to know that:
+## Before you download it, check these out:
     This module contains:
         1. mnistAppBasicLinear.py: Basic simplified algorithm for training and utilizing the MNIST dataset.   
         2. mnistAppBetterCNN.py: Better implementation of a Convolutional-Neural-Network designed for training and utilizing the MNIST dataset.     
-        3. mnistFunc.py: Graphic and algorithm supports to the above implementations
+        3. mnistFunc.py: Graphic and algorithm supports to the above implementations.
 
 ## If you wanna play with it, follow these instructions:
     Train the model by yourself:
