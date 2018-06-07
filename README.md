@@ -1,1 +1,2 @@
-# MNIST-Dataset-CNN-Application
+# MNIST Dataset Implemented with CNN 
+This module contains 
